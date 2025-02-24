@@ -10,3 +10,8 @@ This project analyzes an e-commerce website’s sales and profitability trends u
 🔍 Key Insights Explored
 ✅ Monthly Sales Trends 
 ![Alt Text](https://github.com/ujjawal-dss/E-Commerce-Sales-Profit-Analysis/blob/main/monthly_sales.png)
+
+✅ Category Analysis 
+![Alt Text](https://github.com/ujjawal-dss/E-Commerce-Sales-Profit-Analysis/blob/main/monthly_sales.png)
+
+
