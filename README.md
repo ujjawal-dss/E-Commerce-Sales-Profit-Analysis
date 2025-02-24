@@ -15,9 +15,18 @@ This project analyzes an e-commerce website’s sales and profitability trends u
 ✅ Category Analysis 
 ![Alt Text](https://github.com/ujjawal-dss/E-Commerce-Sales-Profit-Analysis/blob/main/sales_category.png)
 
-✅Sub-Category Analysis 
+✅ Sub-Category Analysis 
 ![Alt Text](sales_subcaetgory.png)
 
-✅Monthly Profit Analysis
+✅ Monthly Profit Analysis
 ![Alt Text](https://github.com/ujjawal-dss/E-Commerce-Sales-Profit-Analysis/blob/main/Monthly_profit.png)
+
+✅ Profit by Category
+![Alt Text](https://github.com/ujjawal-dss/E-Commerce-Sales-Profit-Analysis/blob/main/Monthly_profit.png)
+
+✅ Profit by Sub_Category
+![Alt Text](https://github.com/ujjawal-dss/E-Commerce-Sales-Profit-Analysis/blob/main/profit_sub_category.png)
+
+✅ Customer Segment Insights 
+![Alt Text](https://github.com/ujjawal-dss/E-Commerce-Sales-Profit-Analysis/blob/main/customer_seg.png)
 
